@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  ConvertTemperature
+
+  Created by Ekaterina Akchurina on 02.09.2020.
+  Copyright © 2020 Ekaterina Akchurina. All rights reserved.
+*/
+
+"Input degrees and scale" = "Введите градусы и выберите шкалу";
+"Degrees in different systems:" = "Температура в различных шкалах:";
+"Converter" = "Конвертер";
